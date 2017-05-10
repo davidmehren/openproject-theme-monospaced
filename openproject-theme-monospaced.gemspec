@@ -5,7 +5,7 @@ require "open_project/themes/monospaced/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "openproject-themes-monospaced"
+  s.name        = "openproject-theme-monospaced"
   s.version     = OpenProject::Themes::Monospaced::VERSION
   s.authors     = ["OpenProject GmbH"]
   s.email       = ["info@openproject.com"]
