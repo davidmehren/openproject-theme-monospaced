@@ -1,6 +1,6 @@
 module OpenProject
   module Themes
-    module Dark
+    module Monospaced
       VERSION = "6.2.0"
     end
   end
