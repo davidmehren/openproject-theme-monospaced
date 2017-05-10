@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = OpenProject::Themes::Monospaced::VERSION
   s.authors     = ["OpenProject GmbH"]
   s.email       = ["info@openproject.com"]
-  s.homepage    = "davidmehren/openproject-theme-monospaced"
+  s.homepage    = "https://github.com/davidmehren/openproject-theme-monospaced"
   s.summary     = "Dark theme for OpenProject"
   s.description = "Theme with more dark blue colors for your OpenProject installation"
 
